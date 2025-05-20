@@ -12,8 +12,9 @@ Durante el año trabajé con los siguientes lenguajes de programación:
 
 🌐 JavaScript
 
-📂 Contenido
-Este repositorio contiene únicamente tareas prácticas y ejercicios desarrollados en clase, organizados por lenguaje y cuatrimestre. 
+📂 Contenido:
+
+Este repositorio contiene tareas prácticas y ejercicios desarrollados en clase, organizados por lenguaje y cuatrimestre. 
 
 ![image](https://github.com/user-attachments/assets/6398db53-d965-4482-8470-2c8617b4fccf)
 

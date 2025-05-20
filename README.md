@@ -20,5 +20,7 @@ Este repositorio contiene tareas prácticas y ejercicios desarrollados en clase,
 
 🎓 Institución
 Universidad Tecnológica Nacional (UTN)
+
 Tecnicatura Universitaria en Programación
+
 Año cursado: 2025

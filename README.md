@@ -12,6 +12,10 @@ Durante el año trabajé con los siguientes lenguajes de programación:
 
 🌐 JavaScript
 
+🗄️ Bases de datos utilizas en este repositorio:
+
+🐘 PostgreSQL
+
 📂 Contenido:
 
 Este repositorio contiene tareas prácticas y ejercicios desarrollados en clase, organizados por lenguaje y cuatrimestre. 
@@ -20,9 +24,6 @@ Este repositorio contiene tareas prácticas y ejercicios desarrollados en clase,
   <img src="https://github.com/user-attachments/assets/2a8a649e-7346-49c0-b835-c4d0901eccd9" width="500px" />
 </p>
 
-🗄️ Bases de datos utilizas en este repositorio:
-
-🐘 PostgreSQL
 
 
 🎓 Institución

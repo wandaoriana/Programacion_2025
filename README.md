@@ -15,8 +15,7 @@ Durante el año trabajé con los siguientes lenguajes de programación:
 📂 Contenido:
 
 Este repositorio contiene tareas prácticas y ejercicios desarrollados en clase, organizados por lenguaje y cuatrimestre. 
-
-![image](https://github.com/user-attachments/assets/6398db53-d965-4482-8470-2c8617b4fccf)
+![image](https://github.com/user-attachments/assets/2a8a649e-7346-49c0-b835-c4d0901eccd9)
 
 🎓 Institución
 Universidad Tecnológica Nacional (UTN)

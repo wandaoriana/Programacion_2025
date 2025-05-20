@@ -3,6 +3,7 @@
 Repositorio de trabajos prácticos realizados por Wanda Lanatta (@wandaoriana) durante el primer y segundo cuatrimestre del año 2025, en el marco de la Tecnicatura Universitaria en Programación de la Universidad Tecnológica Nacional (UTN).
 
 🧠 Tecnologías utilizadas
+
 Durante el año trabajé con los siguientes lenguajes de programación:
 
 🐍 Python
